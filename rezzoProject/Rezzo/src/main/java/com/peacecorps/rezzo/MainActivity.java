@@ -96,7 +96,7 @@ public class MainActivity extends FragmentActivity implements ActionBar.OnNaviga
         args.putInt(DummySectionFragment.ARG_SECTION_NUMBER, position + 1);
         fragment.setArguments(args);
         getSupportFragmentManager().beginTransaction()
-                .replace(R.id.container, fragment)
+                //.replace(R.id.container, fragment)
                 .commit();
         return true;
     }

@@ -11,5 +11,21 @@
     </string>
     <string name="title_section3" >Section 3
     </string>
+    <string name="select_photo_button" >Select Photo
+    </string>
+    <string name="main_heading1" >Natural Resources
+    </string>
+    <string name="main_heading2" >Infrastructure Resources
+    </string>
+    <string name="main_heading3" >Skill Resources
+    </string>
+    <string name="nr1" >NR 1
+    </string>
+    <string name="nr2" >NR 2
+    </string>
+    <string name="nr3" >NR 3
+    </string>
+    <string name="nr4" >NR 4
+    </string>
 
 </resources>
