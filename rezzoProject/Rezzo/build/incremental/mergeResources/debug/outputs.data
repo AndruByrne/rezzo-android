@@ -1,11 +1,11 @@
 # incremental data. DO NOT EDIT.
 # format is <lastModified> <length> <SHA-1> <path>
 # Encoding is UTF-8
-1370135103000 2041 a9de2f175d787e21aee68c7018d8baa0bdfc217a /Users/ianmurray/rezzo-android/rezzoProject/Rezzo/build/res/all/debug/layout/activity_main.xml
+1370137932000 4575 b39a473a6557f2a78da08042769beb5015a33a8d /Users/ianmurray/rezzo-android/rezzoProject/Rezzo/build/res/all/debug/layout/activity_main.xml
 1370121996000 203 19aedb7cdc3386344e36087b035a0a6b2b91d4cd /Users/ianmurray/rezzo-android/rezzoProject/Rezzo/build/res/all/debug/values-v11/values.xml
 1370128946000 10371 0ec08878db0ead5a82c008135696baa2b20e8ac2 /Users/ianmurray/rezzo-android/rezzoProject/Rezzo/build/res/all/debug/drawable-xhdpi/ic_launcher.png
 1370121996000 667 11d090a78b5373e9373c0b868e7a1fce30fdae4a /Users/ianmurray/rezzo-android/rezzoProject/Rezzo/build/res/all/debug/layout/fragment_main_dummy.xml
-1370135280000 1283 5d9736d8350564c0627a7aeba6b548fc222a5cee /Users/ianmurray/rezzo-android/rezzoProject/Rezzo/build/res/all/debug/values/values.xml
+1370138082000 1579 ab8c9d2858a4af6c1bf982a58a588a66e1296f8d /Users/ianmurray/rezzo-android/rezzoProject/Rezzo/build/res/all/debug/values/values.xml
 1370121996000 244 045ff451db7cd8e61285502b8c9bbf7405f2078d /Users/ianmurray/rezzo-android/rezzoProject/Rezzo/build/res/all/debug/menu/main.xml
 1370128946000 19731 8410a4b961ec208326c0dc9124a6f645211a9e41 /Users/ianmurray/rezzo-android/rezzoProject/Rezzo/build/res/all/debug/drawable-xxhdpi/ic_launcher.png
 1370121996000 217 f02e000d05a079992d2dba18039216c1e6b8784f /Users/ianmurray/rezzo-android/rezzoProject/Rezzo/build/res/all/debug/values-v14/values.xml

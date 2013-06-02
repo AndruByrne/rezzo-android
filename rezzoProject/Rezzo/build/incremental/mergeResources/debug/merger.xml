@@ -39,6 +39,9 @@
                 qualifiers=""
                 type="menu" />
             <file
+                path="/Users/ianmurray/rezzo-android/rezzoProject/Rezzo/src/main/res/values/bools.xml"
+                qualifiers="" />
+            <file
                 path="/Users/ianmurray/rezzo-android/rezzoProject/Rezzo/src/main/res/values/dimens.xml"
                 qualifiers="" >
                 <dimen name="activity_horizontal_margin" >16dp
@@ -63,9 +66,25 @@
                 </string>
                 <string name="nr4" >NR 4
                 </string>
+                <string name="ir3" >IR 3
+                </string>
+                <string name="ir4" >IR 4
+                </string>
                 <string name="main_heading1" >Natural Resources
                 </string>
+                <string name="sr4" >SR 4
+                </string>
+                <string name="sr3" >SR 3
+                </string>
+                <string name="sr2" >SR 2
+                </string>
                 <string name="select_photo_button" >Select Photo
+                </string>
+                <string name="ir1" >IR 1
+                </string>
+                <string name="sr1" >SR 1
+                </string>
+                <string name="ir2" >IR 2
                 </string>
                 <string name="app_name" >Rezzo
                 </string>
@@ -128,16 +147,6 @@
 
                     <!-- API 14 theme customizations can go here. -->
                 </style>
-            </file>
-            <file
-                path="/Users/ianmurray/rezzo-android/rezzoProject/Rezzo/src/main/res/values/bools.xml"
-                qualifiers="" >
-                <dimen name="dummy" >16dp
-                </dimen>
-
-                <bool name="imageSelect" >
-1
-                </bool>
             </file>
         </source>
         <source path="/Users/ianmurray/rezzo-android/rezzoProject/Rezzo/build/res/rs/debug" />

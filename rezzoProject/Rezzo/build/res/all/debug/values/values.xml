@@ -6,6 +6,10 @@
 
     <string name="action_settings">Settings</string>
     <string name="app_name">Rezzo</string>
+    <string name="ir1">IR 1</string>
+    <string name="ir2">IR 2</string>
+    <string name="ir3">IR 3</string>
+    <string name="ir4">IR 4</string>
     <string name="main_heading1">Natural Resources</string>
     <string name="main_heading2">Infrastructure Resources</string>
     <string name="main_heading3">Skill Resources</string>
@@ -14,6 +18,10 @@
     <string name="nr3">NR 3</string>
     <string name="nr4">NR 4</string>
     <string name="select_photo_button">Select Photo</string>
+    <string name="sr1">SR 1</string>
+    <string name="sr2">SR 2</string>
+    <string name="sr3">SR 3</string>
+    <string name="sr4">SR 4</string>
     <string name="title_section1">Section 1</string>
     <string name="title_section2">Section 2</string>
     <string name="title_section3">Section 3</string>

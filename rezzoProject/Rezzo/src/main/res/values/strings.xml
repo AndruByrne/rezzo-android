@@ -15,10 +15,6 @@
     </string>
     <string name="main_heading1" >Natural Resources
     </string>
-    <string name="main_heading2" >Infrastructure Resources
-    </string>
-    <string name="main_heading3" >Skill Resources
-    </string>
     <string name="nr1" >NR 1
     </string>
     <string name="nr2" >NR 2
@@ -27,5 +23,26 @@
     </string>
     <string name="nr4" >NR 4
     </string>
+    <string name="main_heading2" >Infrastructure Resources
+    </string>
+    <string name="ir1" >IR 1
+    </string>
+    <string name="ir2" >IR 2
+    </string>
+    <string name="ir3" >IR 3
+    </string>
+    <string name="ir4" >IR 4
+    </string>
+    <string name="main_heading3" >Skill Resources
+    </string>
+    <string name="sr1" >SR 1
+    </string>
+    <string name="sr2" >SR 2
+    </string>
+    <string name="sr3" >SR 3
+    </string>
+    <string name="sr4" >SR 4
+    </string>
+
 
 </resources>
